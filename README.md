@@ -7,7 +7,7 @@
 - 🎓 **BCA (2020)** & **MCA (2022)** — *Siliguri Institute of Technology*
 - 💼 I build **end-to-end apps**: frontend, backend, APIs, domains, deployments
 - 🧩 Key projects: **Hotel PMS**, **Tour Operation CMS**, **Portfolio**, **E-commerce**, etc
-- ☁️ Clouds: **Azure, AWS, Vercel, Render, Hostinger**, etc
+- ☁️ Clouds: **Azure, AWS, Vercel, Render, Hostinger, heroku**, etc
 - 🔧 I enjoy **debugging, lint fixes, and performance tuning**
 
 ---
@@ -39,7 +39,9 @@
   <img src="https://skillicons.dev/icons?i=azure,aws,vercel" />
   <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
   <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 </p>
+
 
 ---
 
