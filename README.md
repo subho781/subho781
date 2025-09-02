@@ -6,7 +6,7 @@
 ### 🌟 About Me
 - 🎓 **BCA (2020)** & **MCA (2022)** — *Siliguri Institute of Technology*
 - 💼 I build **end-to-end apps**: frontend, backend, APIs, domains, deployments
-- 🧩 Key projects: **Hotel PMS**, **Tour Operation CMS**, **Doctor Portfolio**, **E-commerce**, etc
+- 🧩 Key projects: **Hotel PMS**, **Tour Operation CMS**, **Portfolio**, **E-commerce**, etc
 - ☁️ Clouds: **Azure, AWS, Vercel, Render, Hostinger**, etc
 - 🔧 I enjoy **debugging, lint fixes, and performance tuning**
 
