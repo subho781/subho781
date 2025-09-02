@@ -6,8 +6,8 @@
 ### 🌟 About Me
 - 🎓 **BCA (2020)** & **MCA (2022)** — *Siliguri Institute of Technology*
 - 💼 I build **end-to-end apps**: frontend, backend, APIs, domains, deployments
-- 🧩 Key projects: **Hotel PMS**, **Tour Operation CMS**, **Doctor Portfolio**, **E-commerce**
-- ☁️ Clouds: **Azure, AWS, Vercel, Render, Hostinger**
+- 🧩 Key projects: **Hotel PMS**, **Tour Operation CMS**, **Doctor Portfolio**, **E-commerce**, etc
+- ☁️ Clouds: **Azure, AWS, Vercel, Render, Hostinger**, etc
 - 🔧 I enjoy **debugging, lint fixes, and performance tuning**
 
 ---
@@ -55,7 +55,7 @@
 
 ### 📫 Contact
 <p align="left">
-  <a href="mailto:subho781@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/subhajit-sarkar"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:subhajitsarkar148@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/subhajit-sarkar-04a83b216"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/subho781"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
